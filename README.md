@@ -7,6 +7,8 @@
 </p>
 <br>
 
+- [ProjectEuler+](https://github.com/Kujyo/HackerRank/blob/master/README.md#projecteuler)
+
 ## ProjectEuler+
 | Number  |               Challenge                                      |   Solution                            |
 |:---:|:----------------------------------------------------------------:|:-------------------------------------:|
