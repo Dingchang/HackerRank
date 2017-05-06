@@ -15,5 +15,5 @@
 | 001 | [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001)|[Solution.java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23001/Solution.java)|
 | 002 | [Even Fibonacci numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002)|[Solution.java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23002/Solution.java)|
 | 003 | [Largest prime factor](https://www.hackerrank.com/contests/projecteuler/challenges/euler003)       |[Solution.java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23003/Solution.java)|
-| 004 | [Largest palindrome product](https://www.hackerrank.com/contests/projecteuler/challenges/euler004) ||
-| 005 | [Smallest multiple](https://www.hackerrank.com/contests/projecteuler/challenges/euler005)          ||
+| 004 | [Largest palindrome product](https://www.hackerrank.com/contests/projecteuler/challenges/euler004) |[Solution.java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23004/Solution.java)|
+| 005 | [Smallest multiple](https://www.hackerrank.com/contests/projecteuler/challenges/euler005)          |[Solution.java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23005/Solution.java)|
