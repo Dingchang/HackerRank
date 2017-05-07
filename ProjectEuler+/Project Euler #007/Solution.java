@@ -44,12 +44,10 @@ public class Solution {
       return true;
     else if (n % 3 == 0)
       return false;
-    else 
-    {
+    else {
       long limit = (long) Math.floor(Math.sqrt(n));
 
-      for (int i = 5; i <= limit; i += 6) 
-      {
+      for (int i = 5; i <= limit; i += 6) {
         if (n % i == 0 || n % (i + 2) == 0) 
           return false;
       }
