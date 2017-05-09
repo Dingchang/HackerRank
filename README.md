@@ -20,5 +20,5 @@
 | 006 | [Sum square difference](https://www.hackerrank.com/contests/projecteuler/challenges/euler006) |[Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23006/Solution.java)|
 | 007 | [10001st prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler007) |[Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23007/Solution.java)<br>[Alternative Solution](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23007/SolutionAlternative.java)|
 | 008 | [Largest product in a series](https://www.hackerrank.com/contests/projecteuler/challenges/euler008) |[Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23008/Solution.java)|
-| 009 | [Special Pythagorean triplet](https://www.hackerrank.com/contests/projecteuler/challenges/euler009) ||
+| 009 | [Special Pythagorean triplet](https://www.hackerrank.com/contests/projecteuler/challenges/euler009) |[Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23009/Solution.java)|
 | 010 | [Summation of primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler010) ||
