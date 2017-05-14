@@ -25,5 +25,5 @@
 | 011 | [Largest product in a grid](https://www.hackerrank.com/contests/projecteuler/challenges/euler011) |[Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23011/Solution.java)|
 | 012 | [Highly divisible triangular number](https://www.hackerrank.com/contests/projecteuler/challenges/euler012) |[Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23012/Solution.java)|
 | 013 | [Large sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler013) |[Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23013/Solution.java)|
-| 014 | [Longest Collatz sequence](https://www.hackerrank.com/contests/projecteuler/challenges/euler014) ||
-| 015 | [Lattice paths](https://www.hackerrank.com/contests/projecteuler/challenges/euler015) ||
+| 014 | [Longest Collatz sequence](https://www.hackerrank.com/contests/projecteuler/challenges/euler014) |[Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23014/Solution.java)|
+| 015 | [Lattice paths](https://www.hackerrank.com/contests/projecteuler/challenges/euler015) |[Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23015/Solution.java) <br> [Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23014/SolutionAlternative.java)|
