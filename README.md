@@ -28,7 +28,7 @@
 | 014 | [Longest Collatz sequence](https://www.hackerrank.com/contests/projecteuler/challenges/euler014) |[Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23014/Solution.java)|
 | 015 | [Lattice paths](https://www.hackerrank.com/contests/projecteuler/challenges/euler015) |[Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23015/Solution.java) <br> [Alternative Solution](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23015/SolutionAlternative.java)|
 | 016 | [Power digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler016) | [Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23016/Solution.java)|
-| 017 | [Maximum path sum I](https://www.hackerrank.com/contests/projecteuler/challenges/euler017) | [Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23017/Solution.java)|
-| 018 | [Power digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler018) | |
+| 017 | [Number to Words](https://www.hackerrank.com/contests/projecteuler/challenges/euler017) | [Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23017/Solution.java)|
+| 018 | [Maximum path sum I](https://www.hackerrank.com/contests/projecteuler/challenges/euler018) | |
 | 019 | [Counting Sundays](https://www.hackerrank.com/contests/projecteuler/challenges/euler019) | |
 | 020 | [Factorial digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler020) | |
