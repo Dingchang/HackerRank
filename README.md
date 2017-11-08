@@ -30,6 +30,6 @@
 | 016 | [Power digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler016) | [Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23016/Solution.java)|
 | 017 | [Number to Words](https://www.hackerrank.com/contests/projecteuler/challenges/euler017) | [Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23017/Solution.java)|
 | 018 | [Maximum path sum I](https://www.hackerrank.com/contests/projecteuler/challenges/euler018) | [Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23018/Solution.java)|
-| 019 | [Counting Sundays](https://www.hackerrank.com/contests/projecteuler/challenges/euler019) | |
+| 019 | [Counting Sundays](https://www.hackerrank.com/contests/projecteuler/challenges/euler019) | [Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23019/Solution.java)|
 | 020 | [Factorial digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler020) | |
 | 067 | [Maximum path sum II](https://www.hackerrank.com/contests/projecteuler/challenges/euler067) | [Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23067/Solution.java)|
