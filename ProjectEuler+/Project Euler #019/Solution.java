@@ -3,7 +3,6 @@ import java.util.*;
 
 public class Solution {
 
-
   private static boolean isSunday(long year, int month, int day) {
     if (month<3) {
       month += 12;
@@ -58,7 +57,7 @@ public class Solution {
     long year1, year2;
     int month1, month2, day1, day2;
 
-    for (int i = 0; i< num; i++) {
+    for (int i = 0; i < num; i++) {
       year1 = in.nextLong();
       month1 = in.nextInt();
       day1 = in.nextInt();
