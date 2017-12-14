@@ -33,7 +33,7 @@
 | 019 | [Counting Sundays](https://www.hackerrank.com/contests/projecteuler/challenges/euler019) | [Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23019/Solution.java)|
 | 020 | [Factorial digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler020) | [Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23020/Solution.java)|
 | 021 | [Amicable numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler021) | [Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23021/Solution.java)|
-| 022 | [Names scores](https://www.hackerrank.com/contests/projecteuler/challenges/euler022) | |
+| 022 | [Names scores](https://www.hackerrank.com/contests/projecteuler/challenges/euler022) | [Java](https://github.com/Kujyo/HackerRank/blob/master/ProjectEuler%2B/Project%20Euler%20%23022/Solution.java)|
 | 023 | [Non-abundant sums](https://www.hackerrank.com/contests/projecteuler/challenges/euler023) | |
 | 024 | [Lexicographic permutations](https://www.hackerrank.com/contests/projecteuler/challenges/euler024) | |
 | 025 | [1000-digit Fibonacci number](https://www.hackerrank.com/contests/projecteuler/challenges/euler025) | |
