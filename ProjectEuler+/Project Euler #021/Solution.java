@@ -9,10 +9,10 @@ public class Solution {
 
         // num is a square number
         if(root*root == num) {
-            sum += root;
+            sum += root--;
         }
 
-        for(int i = 2; i < root; ++i) {
+        for(int i = 2; i <= root; ++i) {
             if (num % i == 0) {
                 sum += i + (num / i);
             }
